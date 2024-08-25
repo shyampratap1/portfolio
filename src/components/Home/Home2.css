@@ -1,0 +1,7 @@
+.myAvtar img {
+    border-radius: 50%; /* Makes the image circular */
+    width: 100%; /* Ensures the image scales within its container */
+    height: auto; /* Maintains aspect ratio */
+    object-fit: cover; /* Ensures the image covers the circular area */
+  }
+  

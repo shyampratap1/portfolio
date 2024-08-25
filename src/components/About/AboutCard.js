@@ -13,8 +13,7 @@ function AboutCard() {
             <br />
             I have 1 year Internship Experience as a Java Intern Position at Ascrop software
             <br/>
-            I have completed PGDCA (BTEUP) in  Computer Application at Government Polytechnic Kanpur
-            Mesra.
+            I have completed PGDCA (BTEUP) in  Computer Application at Government Polytechnic Kanpur.
             <br />
             I have completed  Bsc  in science at Agra University
             <br />

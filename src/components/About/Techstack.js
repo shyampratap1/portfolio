@@ -8,6 +8,7 @@ import {
   DiMongodb,
   DiGit,
   DiJava,
+  DiPhp,
 
 } from "react-icons/di";
 import {
@@ -59,7 +60,7 @@ function Techstack() {
         <SiPostgresql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+        <DiPhp />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
